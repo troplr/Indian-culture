@@ -1,2 +1,3 @@
 # Indian-culture
-static website based upon Indian-culture and provide information on festival ,religion ,Hindu god etc.
+static website based upon Hindu mythology. Provide basic info. about india
+ 
