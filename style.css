@@ -1,0 +1,84 @@
+ 
+.clear {
+	clear:both;
+}
+body {
+ 	font-family:Georgia, "Times New Roman", Times, serif;
+	color:#212713;
+}
+#wrap {
+	width:1000px;
+	margin:auto;
+}
+#contentwrap {
+	background:url(images/contentbg.gif) repeat-y;
+	padding:10px 0 3px 0;
+}
+#mainpage {
+	padding:0 10px 10px 10px;
+}
+.ftbox {
+	width:301px;
+	margin:0 auto 20px auto;
+}
+.ftcontent .post {
+}
+#threecolumns {
+	padding:10px 0 10px 0;
+}
+#threecolumns .col1 {
+	width:32%;
+	float:left;
+	margin-left:5px;
+}
+#threecolumns .col2 {
+	width:32%;
+	float:right;
+	margin-right:5px;
+}
+ 
+.post p {
+	font: 16px Contra;
+	line-height:22px;
+	margin-bottom:16px;
+}
+.ftbox p {
+	display:block;
+	margin:0!important;
+} 
+.readmore a {
+	display:block;
+ 	height:27px;
+	width:122px;
+	text-align:center;
+	padding:5px 0 0 0;
+     color: black;
+   }
+.readmore a:hover {
+     text-decoration: none;
+    border-radius: 100px;
+    color: red;
+}
+ 
+.ftbox .readmore {
+	padding-top:10px;
+	display:block;
+}
+#bottom {
+	padding:20px 10px 10px 10px;
+	margin: 0 10px 0 10px;
+	background:url(images/footerbg.gif) repeat;
+	color:#c8d0ab;
+	font-family:Contra;
+}
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
